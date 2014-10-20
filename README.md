@@ -1,2 +1,2 @@
-trends
+Twitter Trends
 ======
